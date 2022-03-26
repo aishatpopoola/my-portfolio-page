@@ -1,16 +1,27 @@
-# Project Name
+# My Portfolio Page
 
-> One paragraph statement about the project.
+> This is my prtfolio page.
 
 ![screenshot](./app_screenshot.png)
 
 Additional description about the project and its features.
 
+## Features
+
+- Contact us Can send real time emails through contact form
+- Includes Modals built with HTM-CSS- Vanilla Javascript
+- Navbar Toggler
+
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML
+- CSS
+  - Flexbox
+  - Grid
+  - Animation
+  - Media queries
+- Javscript
+- [Swiper](https://swiperjs.com/)
 
 ## Live Demo
 
@@ -21,7 +32,7 @@ Additional description about the project and its features.
 - Clone the project
 
 ```bash
-git clone https://github.com/user/html-css-template.git
+git clone https://github.com/aishatpopoola/my-portfolio-page.git
 
 ```
 
@@ -70,9 +81,9 @@ npm run html-validator
 
 ## 👤 Author
 
-- Github: [@author](https://github.com/author)
+- Github: [@aishatpopoola](https://github.com/aishatpopoola)
 - Twitter: [@author](https://twitter.com/author)
-- Linkedin: [@author](https://www.linkedin.com/in/author/)
+- Linkedin: [@aishat-popoola](https://www.linkedin.com/in/aishat-popoola/)
 
 ## 🤝 Contributing
 
@@ -86,9 +97,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration, resources/assets used
-- etc
+- [iconscout](https://iconscout.com/)
+- [Jamiu Adeleye](https://www.linkedin.com/in/adeleye-jamiu/)
 
 ## 📝 License
 
